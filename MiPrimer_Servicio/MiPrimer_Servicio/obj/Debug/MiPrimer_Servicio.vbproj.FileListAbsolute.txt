@@ -1,0 +1,38 @@
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.vbprojAssemblyReference.cache
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.Resources.resources
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.ProjectInstaller.resources
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.vbproj.GenerateResource.cache
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.vbproj.CoreCompileInputs.cache
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.exe.config
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.exe
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.pdb
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.xml
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.exe
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.xml
+C:\Users\sec200903_0101\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.pdb
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.exe.config
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.exe
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.pdb
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.xml
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.vbprojAssemblyReference.cache
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.Resources.resources
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.ProjectInstaller.resources
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.Service1.resources
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.vbproj.GenerateResource.cache
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.vbproj.CoreCompileInputs.cache
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.exe
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.xml
+D:\Tareas 2022\Redes\Servicio1\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.pdb
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.exe.config
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.exe
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.pdb
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\bin\Debug\MiPrimer_Servicio.xml
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.vbproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.Resources.resources
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.ProjectInstaller.resources
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.Service1.resources
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.vbproj.GenerateResource.cache
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.vbproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.exe
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.xml
+C:\Users\PC1\Desktop\MiPrimer_Servicio\MiPrimer_Servicio\obj\Debug\MiPrimer_Servicio.pdb
